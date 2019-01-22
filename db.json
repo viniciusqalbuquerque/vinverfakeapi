@@ -1,50 +1,80 @@
 {
-  "avaliacoes": [
-    { 
-    "id": 1, 
-    "estagio": "1º estágio",
-    "data": "1548188772",
-    "dataEnvio": "1548188772",
-    "tipoAvaliacao": "Prova",
-    "exercicio": "Exercício 1",
-    "informacoes": "",
-    "notas": 
-    [
-    {"idAluno: 1, "nome": "Vinícius Jairo", "nota": 9.5},
-    {"idAluno: 2, "nome": "Paulo Pedro", "nota": 9.0},
-    {"idAluno: 3, "nome": "Victor Jairo", "nota": 9.5}
-    ]
-    },
-        { 
-    "id": 2, 
-    "estagio": "2º estágio",
-    "data": "1548188772",
-    "dataEnvio": "1548188772",
-    "tipoAvaliacao": "Prova",
-    "exercicio": "Exercício 1",
-    "informacoes": "",
-    "notas": 
-    [
-    {"idAluno: 1, "nome": "Vinícius Jairo", "nota": 8.5},
-    {"idAluno: 2, "nome": "Paulo Pedro", "nota": 7.0},
-    {"idAluno: 3, "nome": "Victor Jairo", "nota": 8.5}
-    ]
-    },
-    
-    { 
-    "id": 1, 
-    "estagio": "2º estágio",
-    "data": "1548188772",
-    "dataEnvio": "1548188772",
-    "tipoAvaliacao": "Prova",
-    "exercicio": "Exercício 2",
-    "informacoes": "",
-    "notas": 
-    [
-    {"idAluno: 1, "nome": "Vinícius Jairo", "nota": 9.5},
-    {"idAluno: 2, "nome": "Paulo Pedro", "nota": 9.0},
-    {"idAluno: 3, "nome": "Victor Jairo", "nota": 9.5}
-    ]
-    },
-    
+	"avaliacoes": [{
+			"id": 1,
+			"estagio": "1º estágio",
+			"data": "1548188772",
+			"dataEnvio": "1548188772",
+			"tipoAvaliacao": "Prova",
+			"exercicio": "Exercício 1",
+			"informacoes": "",
+			"notas": [{
+					"idAluno": 1,
+					"nome": "Vinícius Jairo",
+					"nota": 9.5
+				},
+				{
+					"idAluno": 2,
+					"nome": "Paulo Pedro",
+					"nota": 9.0
+				},
+				{
+					"idAluno": 3,
+					"nome": "Victor Jairo",
+					"nota": 9.5
+				}
+			]
+		},
+		{
+			"id": 2,
+			"estagio": "2º estágio",
+			"data": "1548188772",
+			"dataEnvio": "1548188772",
+			"tipoAvaliacao": "Prova",
+			"exercicio": "Exercício 1",
+			"informacoes": "",
+			"notas": [{
+					"idAluno": 1,
+					"nome": "Vinícius Jairo",
+					"nota": 8.5
+				},
+				{
+					"idAluno": 2,
+					"nome": "Paulo Pedro",
+					"nota": 7.0
+				},
+				{
+					"idAluno": 3,
+					"nome": "Victor Jairo",
+					"nota": 8.5
+				}
+			]
+		},
+
+		{
+			"id": 1,
+			"estagio": "2º estágio",
+			"data": "1548188772",
+			"dataEnvio": "1548188772",
+			"tipoAvaliacao": "Prova",
+			"exercicio": "Exercício 2",
+			"informacoes": "",
+			"notas": [{
+					"idAluno": 1,
+					"nome": "Vinícius Jairo",
+					"nota": 9.5
+				},
+				{
+					"idAluno": 2,
+					"nome": "Paulo Pedro",
+					"nota": 9.0
+				},
+				{
+					"idAluno": 3,
+					"nome": "Victor Jairo",
+					"nota": 9.5
+				}
+			]
+		}
+	]
+
 }
