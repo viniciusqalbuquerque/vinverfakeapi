@@ -75,12 +75,37 @@
 				}
 			]
 		},
-		       		{
+		    {
 			"id": 4,
 			"estagio": "2º",
 			"data": "1548188772",
 			"dataEnvio": "1548188772",
 			"tipoAvaliacao": "Trabalhos",
+			"exercicio": "Exercício 2",
+			"informacoes": "",
+			"notas": [{
+					"idAluno": 1,
+					"nome": "Vinícius Jairo",
+					"nota": 9.5
+				},
+				{
+					"idAluno": 2,
+					"nome": "Paulo Pedro",
+					"nota": 9.0
+				},
+				{
+					"idAluno": 3,
+					"nome": "Victor Jairo",
+					"nota": 9.5
+				}
+			]
+		},
+		       		       		{
+			"id": 5,
+			"estagio": "2º",
+			"data": "1548188772",
+			"dataEnvio": "1548188772",
+			"tipoAvaliacao": "Final",
 			"exercicio": "Exercício 2",
 			"informacoes": "",
 			"notas": [{
