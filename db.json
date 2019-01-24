@@ -1,7 +1,7 @@
 {
 	"avaliacoes": [{
 			"id": 1,
-			"estagio": "1º estágio",
+			"estagio": "1º",
 			"data": "1548188772",
 			"dataEnvio": "1548188772",
 			"tipoAvaliacao": "Prova",
@@ -26,7 +26,7 @@
 		},
 		{
 			"id": 2,
-			"estagio": "2º estágio",
+			"estagio": "2º",
 			"data": "1548188772",
 			"dataEnvio": "1548188772",
 			"tipoAvaliacao": "Prova",
@@ -51,11 +51,36 @@
 		},
 
 		{
-			"id": 1,
-			"estagio": "2º estágio",
+			"id": 3,
+			"estagio": "2º",
 			"data": "1548188772",
 			"dataEnvio": "1548188772",
 			"tipoAvaliacao": "Prova",
+			"exercicio": "Exercício 2",
+			"informacoes": "",
+			"notas": [{
+					"idAluno": 1,
+					"nome": "Vinícius Jairo",
+					"nota": 9.5
+				},
+				{
+					"idAluno": 2,
+					"nome": "Paulo Pedro",
+					"nota": 9.0
+				},
+				{
+					"idAluno": 3,
+					"nome": "Victor Jairo",
+					"nota": 9.5
+				}
+			]
+		},
+		       		{
+			"id": 4,
+			"estagio": "2º",
+			"data": "1548188772",
+			"dataEnvio": "1548188772",
+			"tipoAvaliacao": "Trabalhos",
 			"exercicio": "Exercício 2",
 			"informacoes": "",
 			"notas": [{
