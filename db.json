@@ -1,8 +1,7 @@
 {
 	"analytics": {
 		"personalidade": {
-			"positiva": 12,
-			"negativa": 2
+			"data": [48, 12]
 		},
 		"assiduidade": {
 			"presenca": 70,
