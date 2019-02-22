@@ -1,130 +1,40 @@
 {
-	"avaliacoes": [{
-			"id": 1,
-			"estagio": "1º",
-			"data": "1548188772",
-			"dataEnvio": "1548188772",
-			"tipoAvaliacao": "Prova",
-			"exercicio": "Exercício 1",
-			"informacoes": "",
-			"notas": [{
-					"idAluno": 1,
-					"nome": "Vinícius Jairo",
-					"nota": 9.5
-				},
-				{
-					"idAluno": 2,
-					"nome": "Paulo Pedro",
-					"nota": 9.0
-				},
-				{
-					"idAluno": 3,
-					"nome": "Victor Jairo",
-					"nota": 9.5
-				}
-			]
+	"analytics": {
+		"personalidade": {
+			"positiva": 12,
+			"negativa": 2
 		},
-		{
-			"id": 2,
-			"estagio": "2º",
-			"data": "1548188772",
-			"dataEnvio": "1548188772",
-			"tipoAvaliacao": "Prova",
-			"exercicio": "Exercício 1",
-			"informacoes": "",
-			"notas": [{
-					"idAluno": 1,
-					"nome": "Vinícius Jairo",
-					"nota": 8.5
-				},
-				{
-					"idAluno": 2,
-					"nome": "Paulo Pedro",
-					"nota": 7.0
-				},
-				{
-					"idAluno": 3,
-					"nome": "Victor Jairo",
-					"nota": 8.5
-				}
-			]
+		"assiduidade": {
+			"presenca": 70,
+			"falta": 30
+		},
+		"notas": {
+			"labelChart": ["1º Estágio", "2º Estágio"],
+			"data": [9.5, 8, 8.7, 10],
+			"label": "Notas",
+			"mediaTurma": {
+				"data": [8.2, 7.9, 8, 8.4],
+				"media": "Média Turma"
+			}
+		},
+		"cre": {
+			"labelChart": ["1º Estágio", "2º Estágio"],
+			"data": [9.1, 7.9, 9.2, 9.3],
+			"label": "Coeficiente",
+			"mediaTurma": {
+				"data": [8.5, 7.5, 8, 8.4],
+				"media": "Média CRE Turma"
+			}
 		},
 
-		{
-			"id": 3,
-			"estagio": "2º",
-			"data": "1548188772",
-			"dataEnvio": "1548188772",
-			"tipoAvaliacao": "Prova",
-			"exercicio": "Exercício 2",
-			"informacoes": "",
-			"notas": [{
-					"idAluno": 1,
-					"nome": "Vinícius Jairo",
-					"nota": 9.5
-				},
-				{
-					"idAluno": 2,
-					"nome": "Paulo Pedro",
-					"nota": 9.0
-				},
-				{
-					"idAluno": 3,
-					"nome": "Victor Jairo",
-					"nota": 9.5
-				}
-			]
-		},
-		    {
-			"id": 4,
-			"estagio": "2º",
-			"data": "1548188772",
-			"dataEnvio": "1548188772",
-			"tipoAvaliacao": "Trabalhos",
-			"exercicio": "Exercício 2",
-			"informacoes": "",
-			"notas": [{
-					"idAluno": 1,
-					"nome": "Vinícius Jairo",
-					"nota": 9.5
-				},
-				{
-					"idAluno": 2,
-					"nome": "Paulo Pedro",
-					"nota": 9.0
-				},
-				{
-					"idAluno": 3,
-					"nome": "Victor Jairo",
-					"nota": 9.5
-				}
-			]
-		},
-		  {
-			"id": 5,
-			"estagio": "2º",
-			"data": "1548188772",
-			"dataEnvio": "1548188772",
-			"tipoAvaliacao": "Final",
-			"exercicio": "Exercício 2",
-			"informacoes": "",
-			"notas": [{
-					"idAluno": 1,
-					"nome": "Vinícius Jairo",
-					"nota": 9.5
-				},
-				{
-					"idAluno": 2,
-					"nome": "Paulo Pedro",
-					"nota": 9.0
-				},
-				{
-					"idAluno": 3,
-					"nome": "Victor Jairo",
-					"nota": 9.5
-				}
-			]
+		"ocorrencias": {
+			"labelChart": ["1º Estágio", "2º Estágio"],
+			"data": [1, 1, 0, 3],
+			"label": "Ocorrências",
+			"mediaTurma": {
+				"data": [8, 3, 4, 5],
+				"label": "Média Turma"
+			}
 		}
-	]
-
+	}
 }
