@@ -4,8 +4,7 @@
 			"data": [48, 12]
 		},
 		"assiduidade": {
-			"presenca": 70,
-			"falta": 30
+			"data": [20, 80]
 		},
 		"notas": {
 			"labelChart": ["1º Estágio", "2º Estágio"],
